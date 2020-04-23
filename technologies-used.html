@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>Technologies - Ryan Tate | semper in doctrina</title>
+        <title>Technologies - Ryan Tate | Personal Website</title>
         
 
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
@@ -113,7 +113,7 @@
                         
                     </div>
 
-                    <h1 class="menu-title">Ryan Tate | semper in doctrina</h1>
+                    <h1 class="menu-title">Ryan Tate | Personal Website</h1>
 
                     <div class="right-buttons">
                         <a href="print.html" title="Print this book" aria-label="Print this book">
@@ -197,6 +197,21 @@ Proficiency 0        25        50        75        100
 
         </div>
 
+        
+        <!-- Livereload script (if served using the cli tool) -->
+        <script type="text/javascript">
+            var socket = new WebSocket("ws://localhost:3001");
+            socket.onmessage = function (event) {
+                if (event.data === "reload") {
+                    socket.close();
+                    location.reload();
+                }
+            };
+
+            window.onbeforeunload = function() {
+                socket.close();
+            }
+        </script>
         
 
         
