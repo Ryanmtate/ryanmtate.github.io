@@ -1,0 +1,17 @@
+# Build output
+public/
+
+# Draft articles (not included in published site)
+drafts/
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local development
+scratch/

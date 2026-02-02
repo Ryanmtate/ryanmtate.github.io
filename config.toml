@@ -1,0 +1,58 @@
+base_url = "https://ryanmtate.com"
+title = "Ryan Tate"
+description = "Staff Software Engineer specializing in digital identity systems and cryptographic protocols"
+default_language = "en"
+theme = "serene"
+
+compile_sass = true
+minify_html = false
+build_search_index = false
+
+generate_feeds = true
+feed_filenames = ["atom.xml", "rss.xml"]
+
+taxonomies = [
+    { name = "tags", feed = true },
+    { name = "categories", feed = true },
+]
+
+[markdown]
+smart_punctuation = true
+
+[markdown.highlighting]
+style = "class"
+light_theme = "github-light"
+dark_theme = "github-dark"
+
+[extra]
+blog_section_path = "/articles"
+
+sections = [
+    { name = "Career", path = "/career", is_external = false },
+    { name = "Resume", path = "/resume", is_external = false },
+]
+
+back_link_text = "Back"
+force_theme = false
+
+footer_copyright = "© 2026 Ryan Tate"
+footer_credits = true
+
+not_found_error_text = "404 Not Found"
+not_found_recover_text = "« back to home »"
+
+reaction = false
+reaction_align = "right"
+reaction_endpoint = ""
+
+[[extra.footer_links]]
+name = "GitHub"
+url = "https://github.com/ryanmtate"
+
+[[extra.footer_links]]
+name = "Email"
+url = "mailto:ryan.michael.tate@gmail.com"
+
+[[extra.footer_links]]
+name = "LinkedIn"
+url = "https://linkedin.com/in/ryanmichaeltate"

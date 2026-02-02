@@ -1,0 +1,15 @@
+<footer>
+  <div class="footer-link">
+    {% if config.extra.footer_links %}
+      {% for link in config.extra.footer_links %}
+        <a href="{{ link.url }}">{{ link.name }}</a>
+      {% endfor %}
+    {% endif %}
+  </div>
+  <div class="footer-info">
+    {% if config.extra.footer_copyright %}<span>{{ config.extra.footer_copyright }}</span>{% endif %}
+    {% if config.extra.footer_credits %}
+    <span>Built with <a href="https://www.getzola.org/" target="_blank">Zola</a> & <a href="https://github.com/isunjn/serene" target="_blank">Serene</a></span>
+    {% endif %}
+  </div>
+</footer>
