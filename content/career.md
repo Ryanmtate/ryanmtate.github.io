@@ -11,7 +11,7 @@ Technical executive and entrepreneur with experience founding companies, leading
 
 At [SpruceID](https://spruceid.com), I lead engineering for digital identity systems deployed by state governments. My work delivers standards-compliant mobile credentials serving millions of users, with implementations receiving TSA approval for airport authentication. I architect cross-platform Rust SDKs and contribute to open standards including ISO/IEC 18013-5 mobile driver's licenses and OpenID credential protocols.
 
-## Entrepreneurial Journey
+## Entrepreneurial & Start-Up Journey
 
 **Emergent Financial, LLC** (Founder, 2018–Present)
 Founded to build financial technology software and maintain intellectual property including U.S. Patent [US18/082,630](https://patents.google.com/patent/US20230196347A1) for cryptographic systems enabling high-volume digital transactions with advanced security guarantees.
