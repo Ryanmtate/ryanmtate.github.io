@@ -55,6 +55,11 @@ Architected distributed payment systems for monetary authorities and commercial 
 
 Early enterprise blockchain contributor. Developed smart contract systems for Fortune 50 companies with Enterprise Ethereum Alliance.
 
+### Threshold Group (family office) — Jr. Investment Analyst
+**Aug 2011 – Nov 2012** | Gig Harbor, WA
+
+Researched and helped select portfolio managers for family office client mandates in emerging markets equities.
+
 ---
 
 ## Education
