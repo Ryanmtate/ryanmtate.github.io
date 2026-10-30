@@ -14,18 +14,18 @@ At [SpruceID](https://spruceid.com), I lead engineering for digital identity sys
 ## Entrepreneurial & Start-Up Journey
 
 **Emergent Financial, LLC** (Founder, 2018–Present)
-Founded to build financial technology software and maintain intellectual property including U.S. Patent [US18/082,630](https://patents.google.com/patent/US20230196347A1) for cryptographic systems enabling high-volume digital transactions with advanced security guarantees.
+Founded to build financial technology software. Named inventor on a granted U.S. Patent [US18/082,630](https://patents.google.com/patent/US20230196347A1) for cryptographic systems enabling high-volume digital transactions with advanced security guarantees.
 
 **Knox Networks** (CTO)
 Led technical strategy and engineering for central bank digital currency infrastructure.
 
 **Token, Inc.** (VP of Engineering)
-Directed engineering organization building open banking APIs and payment infrastructure.
+Led the engineering team building stablecoin infrastructure, spun out as M10 Networks.
 
-**M10 Networks** (Staff Engineer)
+**M10 Networks** (Senior Software Engineer)
 Architected distributed ledger systems for monetary authorities and commercial banks, including real-time settlement and cross-border payment protocols.
 
-**ConsenSys** (Senior Engineer)
+**ConsenSys** (Software Engineer)
 Early contributor to enterprise blockchain solutions and the Enterprise Ethereum Alliance, developing proof-of-concept systems for Fortune 50 companies.
 
 ## Distributed Systems

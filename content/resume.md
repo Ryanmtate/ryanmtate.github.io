@@ -21,17 +21,17 @@ Technical executive with 10+ years founding companies, leading engineering organ
 ## Experience
 
 ### SpruceID — Staff Software Engineer
-**2024 – Present** | Seattle, WA
+**Sep 2024 – Present** (Senior, promoted to Staff Nov 2025) | Seattle, WA
 
 Engineering lead for digital identity systems deployed by state governments. Architecting cross-platform Rust SDKs and standards-compliant mobile credentials with TSA approval for airport authentication.
 
 ### Emergent Financial, LLC — Founder
-**2018 – Present** | Seattle, WA
+**Mar 2018 – Present** | Seattle, WA
 
-Founded fintech consulting practice. Developed cryptographic transaction systems resulting in granted U.S. Patent [US18/082,630](https://patents.google.com/patent/US20230196347A1). Created open-source tooling for financial messaging standards.
+Founded fintech consulting practice. Developed cryptographic transaction systems resulting in granted U.S. Patent [US18/082,630](https://patents.google.com/patent/US20230196347A1). Built a Rust SDK for ISO 20022 financial messages.
 
 ### Knox Networks — Chief Technology Officer
-**2022** | Remote
+**Mar 2022 – Jul 2022** | Remote
 
 Led engineering team of 15 building central bank digital currency infrastructure for monetary authorities. Architected low-latency, high-throughput systems in Rust.
 
